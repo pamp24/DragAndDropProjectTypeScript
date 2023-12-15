@@ -8,7 +8,7 @@
     "start": "lite-server"
     
   },
-  "author": "",
+  "author": "Fotis Pamporakis",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
